@@ -1,0 +1,1 @@
+trojan://10f81a15-c7c8-473b-a12a-a09f098b6236@146.56.176.239:443?security=tls&sni=mci.ir&type=tcp&headerType=none&host=mci.ir#South%20Korea-Oracle%20Corporation
